@@ -1,7 +1,8 @@
-# album
-## TESTING (deluxe)
-## A$AP Rocky
-# Released May 25, 2018
+![C:/мои работы/Git/TESTING/TESTING.jpg]
+## album
+# TESTING (deluxe)
+# A$AP Rocky
+## Released May 25, 2018
 // deluxe - версия альбома без A$AP Forever REMIX //
 
 * 1. Distorted Records
